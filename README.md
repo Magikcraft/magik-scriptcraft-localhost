@@ -40,13 +40,13 @@ Run it!
 
 Feel free to fork this repo. If you make something cool, we'd love to check it out. Here is the process:
 
-* Fork the develop branch - https://github.com/triyuga/magik-scriptcraft-localhost/tree/develop
+* Fork the develop branch https://github.com/Magikcraft/magik-scriptcraft-localhost/tree/develop
 * Make your changes/additions
 * Make a Pull Request.
 
 Also, you can always email me to chat more: tim@magikcraft.io
 
-## Git Helper scripts
+## Git helper scripts
 
 We added a couple of git helper scripts, to help localhost dev:
 
