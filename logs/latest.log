@@ -1,0 +1,228 @@
+[11:24:18] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[11:24:18] [Server thread/INFO]: Loading properties
+[11:24:18] [Server thread/INFO]: Default game type: SURVIVAL
+[11:24:18] [Server thread/INFO]: This server is running Paper version git-Paper-1271 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[11:24:19] [Server thread/INFO]: Debug logging is disabled
+[11:24:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:24:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:24:19] [Server thread/INFO]: Generating keypair
+[11:24:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:24:19] [Server thread/INFO]: Using default channel type
+[11:24:19] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[11:24:19] [Server thread/WARN]: [ReflectionHelper] Failed to find version enum for 'org.bukkit.craftbukkit.v1_12_R1'/'v1_12_R1.'
+[11:24:19] [Server thread/INFO]: [ReflectionHelper] Generating dynamic constant...
+[11:24:19] [Server thread/INFO]: [ReflectionHelper] Injected dynamic version v1_12_R1 (#10201).
+[11:24:19] [Server thread/INFO]: [ReflectionHelper] Please inform inventivetalent about the outdated version, as this is not guaranteed to work.
+[11:24:19] [Server thread/INFO]: [ReflectionHelper] Version is v1_12_R1 (10201)
+[11:24:19] [Server thread/INFO]: [CleanroomGenerator] Loading CleanroomGenerator v1.0.0
+[11:24:19] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.5;4651611
+[11:24:19] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[11:24:19] [Server thread/INFO]: [BossBarAPI] Loading BossBarAPI v2.4.2
+[11:24:19] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[11:24:19] [Server thread/INFO]: [scriptcraft] Loading scriptcraft v3.3.0-2017-10-15
+[11:24:19] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[11:24:19] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b719
+[11:24:19] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.1.0
+[11:24:19] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
+[11:24:19] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
+[11:24:19] [Server thread/INFO]: [WorldGuardExtraFlags] Loading WorldGuardExtraFlags v2.11.0
+[11:24:19] [Server thread/INFO]: [BarAPI] Loading BarAPI v3.5
+[11:24:19] [Server thread/INFO]: [WGRegionEvents] Loading WGRegionEvents v1.1
+[11:24:19] [Server thread/INFO]: [WGCustomFlags] Loading WGCustomFlags v1.9
+[11:24:19] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[11:24:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:24:19] [Server thread/INFO]: [CleanroomGenerator] Enabling CleanroomGenerator v1.0.0
+[11:24:19] [Server thread/INFO]: [CleanroomGenerator] CleanroomGenerator v1.0.0 enabled
+[11:24:19] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[11:24:20] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[11:24:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[11:24:20] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[11:24:20] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[11:24:20] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.1.0
+[11:24:20] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[11:24:20] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:24:20] [Server thread/INFO]: Preparing level "world"
+[11:24:20] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:24:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:24:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:24:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:24:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:24:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:24:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:24:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:24:20] [Server thread/INFO]: View Distance: 10
+[11:24:20] [Server thread/INFO]: Mob Spawn Range: 4
+[11:24:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:24:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:24:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:24:20] [Server thread/INFO]: Structure Info Saving: true
+[11:24:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:24:20] [Server thread/INFO]: Max TNT Explosions: 100
+[11:24:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:24:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:24:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:24:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:24:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:24:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:24:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:24:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:24:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:24:20] [Server thread/INFO]: View Distance: 10
+[11:24:20] [Server thread/INFO]: Mob Spawn Range: 4
+[11:24:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:24:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:24:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:24:20] [Server thread/INFO]: Structure Info Saving: true
+[11:24:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:24:20] [Server thread/INFO]: Max TNT Explosions: 100
+[11:24:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:24:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:24:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:24:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:24:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:24:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:24:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:24:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:24:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:24:20] [Server thread/INFO]: View Distance: 10
+[11:24:20] [Server thread/INFO]: Mob Spawn Range: 4
+[11:24:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:24:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:24:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:24:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:24:20] [Server thread/INFO]: Structure Info Saving: true
+[11:24:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:24:20] [Server thread/INFO]: Max TNT Explosions: 100
+[11:24:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:24:20] [Server thread/INFO]: Preparing start region for level 0 (Seed: -5746142984882877379)
+[11:24:21] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5746142984882877379)
+[11:24:21] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5746142984882877379)
+[11:24:21] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.5;4651611
+[11:24:21] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:24:21] [Server thread/WARN]: [WorldEdit] 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and biome-related functions.
+**
+** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+[11:24:21] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[11:24:21] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[11:24:21] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[11:24:21] [Server thread/INFO]: [BossBarAPI] Enabling BossBarAPI v2.4.2
+[11:24:21] [Server thread/INFO]: [BossBarAPI] Metrics started
+[11:24:21] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[11:24:21] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[11:24:21] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[11:24:21] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[11:24:21] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[11:24:21] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[11:24:21] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+[11:24:23] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+[11:24:23] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b719
+[11:24:23] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[11:24:23] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b719 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[11:24:23] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[11:24:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[11:24:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[11:24:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[11:24:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[11:24:23] [Server thread/INFO]: [WorldGuard] Loading region data...
+[11:24:24] [Server thread/INFO]: [WorldGuardExtraFlags] Enabling WorldGuardExtraFlags v2.11.0
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.TeleportOnEntryFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.TeleportOnExitFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.CommandOnEntryFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.CommandOnExitFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.ConsoleCommandOnEntryFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.ConsoleCommandOnExitFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.WalkSpeedFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.BlockedEffectsFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.GodmodeFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.GiveEffectsFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.FlyFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.PlaySoundsFlag
+[11:24:24] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.flags.GlideFlag
+[11:24:24] [Server thread/INFO]: [BarAPI] Enabling BarAPI v3.5
+[11:24:24] [Server thread/INFO]: [BarAPI] Loaded
+[11:24:24] [Server thread/WARN]: [BossBarAPI] Failed to replace BarAPI.
+[11:24:24] [Server thread/INFO]: [WGRegionEvents] Enabling WGRegionEvents v1.1
+[11:24:24] [Server thread/INFO]: [WGCustomFlags] Enabling WGCustomFlags v1.9
+[11:24:24] [Server thread/INFO]: [WGCustomFlags] Loading configuration...
+[11:24:24] [Server thread/INFO]: [WGCustomFlags] Configuration loaded.
+[11:24:24] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[11:24:24] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[11:24:24] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[11:24:24] [Server thread/INFO]: Done (4.203s)! For help, type "help" or "?"
+[11:24:24] [Server thread/INFO]: Timings Reset
+[11:24:24] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
+[11:24:24] [Craft Scheduler Thread - 7/INFO]: [Vault] Checking for Updates ... 
+[11:24:25] [Craft Scheduler Thread - 7/INFO]: [Vault] No new version available
+[11:24:43] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[11:24:44] [Server thread/INFO]: Stopping the server
+[11:24:44] [Server thread/INFO]: Stopping server
+[11:24:44] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
+[11:24:44] [Server thread/INFO]: [WGCustomFlags] Disabling WGCustomFlags v1.9
+[11:24:44] [Server thread/INFO]: [WGRegionEvents] Disabling WGRegionEvents v1.1
+[11:24:44] [Server thread/INFO]: [BarAPI] Disabling BarAPI v3.5
+[11:24:44] [Server thread/INFO]: [WorldGuardExtraFlags] Disabling WorldGuardExtraFlags v2.11.0
+[11:24:44] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.1;84bc322 with custom flags plugin.
+[11:24:44] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[11:24:44] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.1.0
+[11:24:44] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b719
+[11:24:44] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[11:24:44] [Server thread/INFO]: [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
+[11:24:44] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[11:24:44] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[11:24:44] [Server thread/INFO]: [BossBarAPI] Disabling BossBarAPI v2.4.2
+[11:24:44] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[11:24:44] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.5;4651611
+[11:24:44] [Server thread/INFO]: [CleanroomGenerator] Disabling CleanroomGenerator v1.0.0
+[11:24:44] [Server thread/INFO]: Saving players
+[11:24:45] [Server thread/INFO]: Saving worlds
+[11:24:45] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[11:24:45] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[11:24:45] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
