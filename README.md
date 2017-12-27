@@ -40,7 +40,7 @@ Run it!
 
 Feel free to fork this repo. If you make something cool, we'd love to check it out. Here is the process:
 
-* Fork the develop branch
+* Fork the develop branch - https://github.com/triyuga/magik-scriptcraft-localhost/tree/develop
 * Make your changes/additions
 * Make a Pull Request.
 
