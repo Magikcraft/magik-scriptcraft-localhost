@@ -1,33 +1,37 @@
-# ScriptCraftServer
-A server build using the scriptCraft engine -> https://github.com/walterhiggins/ScriptCraft/
-Inside of the main minecraft server, there is a node process that scriptcraft can hook into, to update a website on player join
+# Magikcraft | Minecraft | ScriptCraft Localhost!
+
+An easy-to-use Scriptcraft Localhost, for developing JS scripts that will run inside Minecraft (included!).
+
+A 1.12 Minecraft Server build including the ScriptCraft engine -> https://github.com/walterhiggins/ScriptCraft/
+
+This is vanillia 1.12 Minecraft and Scriptcraft.
+
+The only custom code is in `/scriptcraft/plugins/magikcraft`.
 
 ## To Run
 
-### Starting Node
-First start the node process, navigate to the `./node` directory then install node dependencies and launch.
-```
-cd node
-npm install
-node index.js
-```
+### Starting Mincraft Server
 
-### Starting MC Server
-With the node process running, navigate back to the main directory
-
-If your on a mac then double click the `start.command` otherwise
+If your on a Mac then double click the `start.command` otherwise
 ```
 java -Xms1G -Xmx1G -jar paperclip.jar
 ```
 
+### Connecting to Minecraft Server Localhost, via your Minecraft Client
+
+Start your Minecraft Client.
+Add a new server entry:
+
+* SERVER NAME: Local Minecraft
+* SERVER ADDRESS: localhost
+
+Run it!
+
 ## To Use
 
-1. Open up your webpage, navigate to `http://localhost:3000' this will serve you the webpage that will be updated
-2. Launch minecraft and join the server `localhost` (This is your minecraft instance, it runs on port `25565` FYI)
-3. Watch the webpage update with your name.
-
-## Files in use
-
-* Node Server -> `./node`
-* Scriptcraft Service -> `./scriptcraft/plugins/nodePlayers.js`
-* Autoscript reloader -> `./scriptcraft/plugins/watchReload.js`
+* Start the Minecraft server localhost, and connect your Minecraft Client to it (see above).
+* Open this project in your favorite IDE.
+* Start by doing your custom JS development in `/scriptcraft/plugins/magikcraft`
+* We have added a file watcher, which automatically reloads the ScriptCraft engine, whenever you add or update any file in `/scriptcraft/`. See `./scriptcraft/plugins/magikcraft/watchReload.js`
+* This is straight up ScriptCraft, so all the documentation here is valid: https://github.com/walterhiggins/ScriptCraft/
+* Happy hacking!
