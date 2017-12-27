@@ -35,3 +35,19 @@ Run it!
 * We have added a file watcher, which automatically reloads the ScriptCraft engine, whenever you add or update any file in `/scriptcraft/`. See `./scriptcraft/plugins/magikcraft/watchReload.js`
 * This is straight up ScriptCraft, so all the documentation here is valid: https://github.com/walterhiggins/ScriptCraft/
 * Happy hacking!
+
+## Contributing
+
+Feel free to fork this repo. If you make something cool, we'd love to check it out. Here is the process:
+
+* Fork the develop branch
+* Make your changes/additions
+* Make a Pull Request.
+
+Also, you can always email me to chat more: tim@magikcraft.io
+
+## Git Helper scripts
+
+We added a couple of git helper scripts, to help localhost dev:
+
+* `./git-clean.sh` - this will discard all changes and added files outside the `./scriptcraft` dir. This is helpful because Minecraft, when running, adds and changes a bunch of random files, which we don't want to commit. For best results, when you want to commit your magik scriptcraft JS scripts, stop Minecraft, run `./git-clean.sh`, then when you run `git status` you will only see your changes in the `./scriptcraft` dir.
